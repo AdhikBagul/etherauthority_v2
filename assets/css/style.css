@@ -5667,7 +5667,7 @@ footer .footer-cr .footer-cr-container ul.cr-menu li:last-child {
     font-weight: 800;
 }
 .hero-s3 {
-  background: url("../images/backgrounds/smart-contract-service.png");
+  background: url("../images/backgrounds/feature6-bg.png");
   position: relative;
   padding: 35px 0px;
 }
@@ -5762,9 +5762,10 @@ footer .footer-cr .footer-cr-container ul.cr-menu li:last-child {
   z-index: 9;
 }
 
-.trusted-clients{
+.trusted-clients h1{
   text-align: center;
-  margin-bottom: 50px;
+  font-size: 60px;
+  font-weight: 700;
 }
 
 .trusted-clients h1{
